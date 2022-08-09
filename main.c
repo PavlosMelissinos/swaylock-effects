@@ -27,7 +27,6 @@
 #include "wlr-input-inhibitor-unstable-v1-client-protocol.h"
 #include "wlr-layer-shell-unstable-v1-client-protocol.h"
 #include "wlr-screencopy-unstable-v1-client-protocol.h"
-#include "xdg-output-unstable-v1-client-protocol.h"
 #include "ext-session-lock-v1-client-protocol.h"
 
 // returns a positive integer in milliseconds
